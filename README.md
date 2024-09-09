@@ -1,6 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
-### THRIKESWAr
+### THRIKESWAR
 ### 212222230162
 
 ## Aim: 
